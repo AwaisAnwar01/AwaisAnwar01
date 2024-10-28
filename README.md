@@ -3,6 +3,7 @@
 ## Intro
 
 👋 Hi there! I'm a final-year student deeply passionate about technology and software development. With a solid foundation built through hands-on projects, I've developed a strong understanding of the tech landscape, particularly in streamlining workflows and automating processes. 
+
 Currently, I’m exploring the fascinating world of Large Language Models (LLMs), diving into their applications in natural language processing. I’m always eager to learn and innovate, with a focus on creating impactful solutions that drive positive change.
 
 
