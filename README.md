@@ -2,9 +2,13 @@
 
 ## Intro
 
-👋 Hi there! I'm deeply passionate about technology and software development. With a solid foundation built through hands-on projects, I've developed a strong understanding of the tech landscape, particularly in streamlining workflows and automating processes.
+👋 Hi there! I'm Awais Anwar
 
-Currently, I’m exploring the fascinating world of Large Language Models (LLMs), diving into their applications in natural language processing. I’m always eager to learn and innovate, with a focus on creating impactful solutions that drive positive change.
+I'm a Backend and AI Developer passionate about building LLM-powered platforms, voice assistants, and intelligent automation systems that solve real-world problems. I specialize in developing scalable, production-ready backends and integrating AI-driven workflows that enhance efficiency and accessibility.
+
+Currently, I’m working on projects that combine FastAPI, Django, LangChain, and PostgreSQL to create systems that think, respond, and adapt — from AI interviewers to intelligent tutoring assistants. I love exploring the intersection of backend engineering and applied AI, turning complex ideas into reliable, high-performance solutions.
+
+💡 Always learning. Always building. Always improving.
 
 
 
