@@ -4,7 +4,7 @@
 
 AI & Backend Engineer, working at the intersection of **applied AI** and **production-grade backend systems**.
 
-I build things that think — multi-agent pipelines, autonomous SOC platforms, voice interviewing systems, and knowledge graph-powered RAG architectures. My work spans from zero-to-one product builds to leading engineering teams on complex distributed systems.
+I build things that think , multi-agent pipelines, autonomous SOC platforms, voice interviewing systems, and knowledge graph-powered RAG architectures. My work spans from zero-to-one product builds to leading engineering teams on complex distributed systems.
 
 > 💡 Always learning. Always building. Always shipping.
 
