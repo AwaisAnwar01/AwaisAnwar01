@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=false&width=1500&height=80&lines=AI+Engineer+%7C+Backend+Architect+%7C+Founder;RAG+%7C+Multi-Agent+%7C+LLM+Systems+%7C+Voice+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=false&width=1500&height=100&lines=AI+Engineer+%7C+Backend+Architect+%7C+Founder;RAG+%7C+Multi-Agent+%7C+LLM+%7C+Voice+AI" alt="Typing SVG" /></a>
 
 ## 👋 Hey, I'm Awais Anwar
 
