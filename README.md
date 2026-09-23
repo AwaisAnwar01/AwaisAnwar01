@@ -73,4 +73,4 @@ I build things that think , multi-agent pipelines, autonomous SOC platforms, voi
 
 ## 📫 Let's Connect
 [![Instagram](https://img.shields.io/badge/@awais__builds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/awais_builds)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisanwar01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisanwaar7077@gmail.com)
